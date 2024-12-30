@@ -1,6 +1,6 @@
 public class javaClass {
     //from feature
     int x=6;
-    int a=57;
+    int a=58;
 
 }
