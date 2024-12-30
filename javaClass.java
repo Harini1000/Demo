@@ -1,7 +1,7 @@
 public class javaClass {
     //from feature
     int x=6;
-    
-    int x=123;
+    int y=10;
+    int z=123;
 
 }
