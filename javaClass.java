@@ -2,5 +2,6 @@ public class javaClass {
     //from feature
     int x=6;
     int a=44;
+    int x=123;
 
 }
